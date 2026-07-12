@@ -10,7 +10,8 @@ the extinction-survival dynamics of sharks. I specialize in morphometric applica
 
 **Career Summary**
 
-- 2024-present: Postdoctoral Scholar, Stanford University
+- 2026-present: Research Scientist, Swedish Museum of Natural History
+- 2024-2026: Postdoctoral Scholar, Stanford University
 - 2022-2023: Data Analyst, KTH Royal Institute of Technology
 - 2021-2022: Postdoctoral Scholar, University of Zurich
 - 2016-2021: PhD, Uppsala University
